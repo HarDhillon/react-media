@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Miss Lynette Nader DDS",
+      "id": 5
+    },
+    {
+      "name": "Gladys Braun Jr.",
+      "id": 6
+    },
+    {
+      "name": "Kurt Baumbach",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 5,
+      "title": "Handmade Concrete Chair",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
